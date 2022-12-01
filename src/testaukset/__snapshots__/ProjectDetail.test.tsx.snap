@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProjectDetail/> snapshot 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="col-sm-6"
+  >
+    <div
+      className="card large"
+    >
+      <img
+        alt="Johnson - Kutch"
+        className="rounded"
+        src="/assets/placeimg_500_300_arch4.jpg"
+      />
+      <section
+        className="section dark"
+      >
+        <h3
+          className="strong"
+        >
+          <strong>
+            Johnson - Kutch
+          </strong>
+        </h3>
+        <p>
+          Fully-configurable intermediate framework. Ullam occaecati libero laudantium nihil voluptas omnis.
+        </p>
+        <p>
+          Budget : 
+          54637
+        </p>
+        <p>
+          Signed: 
+          5.8.2013
+        </p>
+        <p>
+          <mark
+            className="active"
+          >
+             
+            inactive
+          </mark>
+        </p>
+      </section>
+    </div>
+  </div>
+</div>
+`;
